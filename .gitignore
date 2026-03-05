@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+ml/creditcard.csv
+ml/fraud_model.pkl
